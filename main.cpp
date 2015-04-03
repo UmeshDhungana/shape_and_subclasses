@@ -23,7 +23,7 @@ int main()
     {
         cout<<"Enter the radius of the circle: ";
         cin>> radius;
-        cout<<"Is color filled: ";
+        cout<<"Is color filled(1 for filled and 0 for Not Filled): ";
         cin>> filled;
         cout<<"Enter the color: ";
         cin>> color;
